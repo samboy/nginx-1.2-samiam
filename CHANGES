@@ -1,3 +1,5 @@
+pl1: http://nginx.org/download/patch.2013.space.txt applied to 
+	fix CVE-2013-4547
 
 Changes with nginx 1.2.9                                         13 May 2013
 
